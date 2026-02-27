@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Fragile (low savings)",
+    "monthly_income": 4200,
+    "monthly_fixed_expenses": 2200,
+    "monthly_variable_expenses": 900,
+    "cash_savings": 1800,
+    "debt_balance": 12000,
+    "debt_apr": 24.99
+  },
+  {
+    "name": "Stable (healthy buffer)",
+    "monthly_income": 4200,
+    "monthly_fixed_expenses": 2200,
+    "monthly_variable_expenses": 900,
+    "cash_savings": 12000,
+    "debt_balance": 12000,
+    "debt_apr": 24.99
+  }
+]
